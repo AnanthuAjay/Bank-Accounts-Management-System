@@ -101,9 +101,7 @@ Create an new java project on an IDE of your choice.
 
 - Create overloaded version of calculateInterest() method in InterestCalculator for calculating interest of SBAccount and FDAccount.
 
-- Provide interface ICalculator for the concrete class InterestCalculator and use that interface
-in your code for calling the methods.
+- Provide interface ICalculator for the concrete class InterestCalculator and use that interface in your code for calling the methods.
 
-- Write a Generic service class and create Account object and objects of its sub types.
-Use casting to call the sub type methods
+- Write a Generic service class and create Account object and objects of its sub types. Use casting to call the sub type methods
 
