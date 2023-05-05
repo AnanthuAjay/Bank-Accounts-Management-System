@@ -87,8 +87,8 @@ Create an new java project on an IDE of your choice.
 
 	Solution:
     Override the calculateInterest() method of base class Account in the sub classes.
+    
     Hint
-    ----
     Use the formula for calculating simple interest simple Interest = (P * r * t)/100
     
     Assume t= 1 year
